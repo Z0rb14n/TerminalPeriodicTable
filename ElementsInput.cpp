@@ -17,7 +17,7 @@
 
 const std::string ElementsInput::FILE_NOT_FOUND =  "404: Not Found\n";
 const std::string ElementsInput::WEEBLY_WEBSITE_FILE = "https:/z0rb14nservers.weebly.com/uploads/6/6/2/9/66291023/fatboi.txt";
-const std::string ElementsInput::GITHUB_WEBSITE_FILE = "https://raw.githubusercontent.com/Z0rb14n/RandomFiles/master/fatboi.txt";
+const std::string ElementsInput::GITHUB_WEBSITE_FILE = "https://raw.githubusercontent.com/Z0rb14n/TerminalPeriodicTable/master/data.txt";
 const std::string ElementsInput::INPUT_FILE_NAME = "data.txt";
 const std::string ElementsInput::INPUT_FILE = "./Desktop/Useful Stuff/Coding/programs/PeriodicTable/" + ElementsInput::INPUT_FILE_NAME;
 
