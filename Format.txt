@@ -1,0 +1,9 @@
+LINES ARE SPACE SENSITIVE, EVEN AFTER ENDS OF LINES
+// indicate spaces, & indicates new line, (opt) indicates optional
+Name                //Atomic_Symbol                 //
+Period (integer)    //Radioactivity boolean (1 or 0)//
+Group (integer or O)//Block (S, P, D or F)          //
+Atomic Number       //Neutron Number (of most common/stable isotope)//
+Atomic Mass         //Electron Configuration Pt. 1 (typically [NOBLE GAS])//
+Electron Configuration2(opt)//Electron Configuration3(opt)//
+Electron Configuration4(opt)//Electron Configuration5(opt)//Electron Configuration6(opt)&
